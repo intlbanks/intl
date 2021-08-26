@@ -1,5 +1,5 @@
 
-# The Book Of INTL
+# The Book Of INTL Network
 [简体中文](README_CN.md)
 
 ## Abstract
