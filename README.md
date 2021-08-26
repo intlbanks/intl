@@ -1,5 +1,5 @@
 
-# INTL Network Litepaper
+# The Book Of INTL
 [简体中文](README_CN.md)
 
 ## Abstract
